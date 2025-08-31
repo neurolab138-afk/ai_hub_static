@@ -2102,7 +2102,7 @@
             "Superintelligence",
             "Future"
         ],
-        "cover": "images/101.webp",
+        "cover": "images-2/101.webp",
         "date": "2024-05-11",
         "views": 360,
         "read": 12,
@@ -2123,7 +2123,7 @@
             "Addiction",
             "Society"
         ],
-        "cover": "images/102.jpeg",
+        "cover": "images-2/102.jpeg",
         "date": "2024-05-12",
         "views": 310,
         "read": 9,
@@ -2144,7 +2144,7 @@
             "Law",
             "Ethics"
         ],
-        "cover": "images/103.webp",
+        "cover": "images-2/103.webp",
         "date": "2024-05-13",
         "views": 280,
         "read": 8,
@@ -2165,7 +2165,7 @@
             "Religion",
             "Society"
         ],
-        "cover": "images/104.jpg",
+        "cover": "images-2/104.jpg",
         "date": "2024-05-14",
         "views": 270,
         "read": 7,
@@ -2186,7 +2186,7 @@
             "Brain",
             "Neuroscience"
         ],
-        "cover": "images/105.png",
+        "cover": "images-2/105.png",
         "date": "2024-05-15",
         "views": 350,
         "read": 11,
@@ -2207,7 +2207,7 @@
             "Robots",
             "Ethics"
         ],
-        "cover": "images/106.jpg",
+        "cover": "images-2/106.jpg",
         "date": "2024-05-16",
         "views": 300,
         "read": 9,
@@ -2228,7 +2228,7 @@
             "Emotions",
             "Psychology"
         ],
-        "cover": "images/107.jpg",
+        "cover": "images-2/107.jpg",
         "date": "2024-05-17",
         "views": 280,
         "read": 8,
@@ -2249,7 +2249,7 @@
             "Robotics",
             "Future"
         ],
-        "cover": "images/108.jpg",
+        "cover": "images-2/108.jpg",
         "date": "2024-05-18",
         "views": 310,
         "read": 9,
@@ -2270,7 +2270,7 @@
             "Cyborg",
             "Future"
         ],
-        "cover": "images/109.webp",
+        "cover": "images-2/109.webp",
         "date": "2024-05-19",
         "views": 330,
         "read": 11,
@@ -2291,7 +2291,7 @@
             "Global Problems",
             "Future"
         ],
-        "cover": "images/110.jpg",
+        "cover": "images-2/110.jpg",
         "date": "2024-05-20",
         "views": 320,
         "read": 10,
@@ -2312,7 +2312,7 @@
             "Climate",
             "Ecology"
         ],
-        "cover": "images/111.jpg",
+        "cover": "images-2/111.jpg",
         "date": "2024-05-21",
         "views": 300,
         "read": 9,
@@ -2333,7 +2333,7 @@
             "Medicine",
             "Pharma"
         ],
-        "cover": "images/112.png",
+        "cover": "images-2/112.png",
         "date": "2024-05-22",
         "views": 350,
         "read": 10,
@@ -2375,7 +2375,7 @@
             "Economics",
             "Future"
         ],
-        "cover": "images/114.jpg",
+        "cover": "images-2/114.jpg",
         "date": "2024-05-24",
         "views": 320,
         "read": 10,
@@ -2396,7 +2396,7 @@
             "Literature",
             "Writing"
         ],
-        "cover": "images/115.jpg",
+        "cover": "images-2/115.jpg",
         "date": "2024-05-25",
         "views": 290,
         "read": 9,
@@ -2417,7 +2417,7 @@
             "Religion",
             "Future"
         ],
-        "cover": "images/116.webp",
+        "cover": "images-2/116.webp",
         "date": "2024-05-26",
         "views": 270,
         "read": 8,
@@ -2438,7 +2438,7 @@
             "Friendship",
             "Society"
         ],
-        "cover": "images/117.jpg",
+        "cover": "images-2/117.jpg",
         "date": "2024-05-27",
         "views": 260,
         "read": 7,
@@ -2459,7 +2459,7 @@
             "Cinema",
             "Culture"
         ],
-        "cover": "images/118.webp",
+        "cover": "images-2/118.webp",
         "date": "2024-05-28",
         "views": 250,
         "read": 7,
@@ -2480,7 +2480,7 @@
             "Countries",
             "Geopolitics"
         ],
-        "cover": "images/119.png",
+        "cover": "images-2/119.png",
         "date": "2024-05-29",
         "views": 340,
         "read": 10,
@@ -2501,11 +2501,12 @@
             "Rights",
             "Ethics"
         ],
-        "cover": "images/120.jpg",
+        "cover": "images-2/120.jpg",
         "date": "2024-05-30",
         "views": 360,
         "read": 12,
         "rating": 4.9,
         "trending": true
     }
+
 ]
